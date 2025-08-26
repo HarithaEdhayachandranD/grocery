@@ -10,9 +10,9 @@ The **AI Automation Grocery System** is a terminal-based application that automa
 - **Sales Dashboard** – Shows daily and monthly sales summary.
 
 ## Tech Stack
-- Programming Language: Python  
+- Programming Language: Java
 - Database: SQL  
-- AI/ML: Python 
+- Frontend: HTML , CSS 
 
 ## Installation
 1. Clone the repository:
