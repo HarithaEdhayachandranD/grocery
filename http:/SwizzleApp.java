@@ -104,6 +104,7 @@ public class SwizzleApp {
         System.out.println("=== Welcome to Swizzle - Intelligent Grocery Platform ===");
 
         do {
+            System.out.println("View Menu : ");
             System.out.println("\nMenu:");
             System.out.println("1. View Products");
             System.out.println("2. Add to Cart");
