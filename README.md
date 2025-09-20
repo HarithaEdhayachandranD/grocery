@@ -25,4 +25,9 @@ The system simplifies shopping management and provides a seamless experience for
 3. Compile and run the Java application from the terminal.
 
 ## UML diagram
+## Use case diagram
 ![image alt](https://github.com/HarithaEdhayachandranD/grocery/blob/2bc0652d729d4b9edde3b8953dcc18474b40beac/git1.jpg)
+
+## Class diagram
+![image alt](https://github.com/HarithaEdhayachandranD/grocery/blob/816f980b9a01f22989b639c08eaac7cbd9a0fee0/git2.jpg)
+
