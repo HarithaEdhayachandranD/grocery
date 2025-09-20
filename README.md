@@ -13,3 +13,9 @@ The system simplifies shopping management and provides a seamless experience for
 - **Order Placement** – Place orders directly from the cart and automatically calculate the total amount.
 - **Database Persistence** – Stores users, products, cart, wishlist, and orders in MySQL for persistent data.
 
+## Tech Stack
+- **Programming Language:** Java
+- **Database:** MySQL
+- **Frontend:** Console-based interface
+- **Design Pattern:** DAO & Service Layer Architecture
+
