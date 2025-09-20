@@ -19,3 +19,8 @@ The system simplifies shopping management and provides a seamless experience for
 - **Frontend:** Console-based interface
 - **Design Pattern:** DAO & Service Layer Architecture
 
+## Getting Started
+1. Clone the repository.
+2. Set up the MySQL database using the provided SQL scripts.
+3. Compile and run the Java application from the terminal.
+
