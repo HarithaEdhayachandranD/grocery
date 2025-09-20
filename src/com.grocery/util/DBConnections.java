@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 public class DBConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/grocerydb";
     private static final String USER = "root";
-    private static final String PASSWORD = "navinharitha"; // change to your MySQL password
+    private static final String PASSWORD = "haritha"; // change to your MySQL password
 
     public static Connection getConnection() {
         try {
