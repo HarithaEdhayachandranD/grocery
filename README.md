@@ -24,3 +24,5 @@ The system simplifies shopping management and provides a seamless experience for
 2. Set up the MySQL database using the provided SQL scripts.
 3. Compile and run the Java application from the terminal.
 
+## UML diagram
+![image alt](https://github.com/HarithaEdhayachandranD/grocery/blob/2bc0652d729d4b9edde3b8953dcc18474b40beac/git1.jpg)
